@@ -50,7 +50,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Blue Valentine Rose](https://maplelegends.com/lib/equip?id=01442049)          | E                  |
 | [White Valentine Rose](https://maplelegends.com/lib/equip?id=01442050)         | E                  |
 | [Glowing Whip](https://maplelegends.com/lib/equip?id=01302049)                 | BQ                 |
-| [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)               |                    |
+| [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)               | G                  |
 | [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01302031)              | DB                 |
 | [Stirge Grappler](https://maplelegends.com/lib/equip?id=01302091)              |                    |
 | [Stirge-o-Whip](https://maplelegends.com/lib/equip?id=01302090)                |                    |
