@@ -1,10 +1,10 @@
 # Odd-job weapons
 
 This document is mostly for my personal benefit. However, I also want to at
-least catalogue all knowledge of availability for these weapons. Some of these
-weapons are rather obscure, so it&rsquo;s hard to know if they are available in
-the game at all or not, and if so, where they are available. Entries are in
-roughly descending order of interest/desirability.
+least catalogue all knowledge of availability for these weapons in
+MapleLegends. Some of these weapons are rather obscure, so it&rsquo;s hard to
+know if they are available in the game at all or not, and if so, where they are
+available. Entries are in roughly descending order of interest/desirability.
 
 If a weapon has nothing under &ldquo;known availability&rdquo;, that means that
 it is unknown whether or not it exists in the game.
