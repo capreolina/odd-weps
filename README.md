@@ -73,8 +73,9 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Gold Surfboard](https://maplelegends.com/lib/equip?id=01442029)               | DE                 |                                                                                 |
 | [Green Ski](https://maplelegends.com/lib/equip?id=01432017)                    | GE                 |                                                                                 |
 | [Red Ski](https://maplelegends.com/lib/equip?id=01432015)                      | G                  |                                                                                 |
-| [Dark Snowboard](https://maplelegends.com/lib/equip?id=01442016)               | D                  |                                                                                 |
+| [Dark Snowboard](https://maplelegends.com/lib/equip?id=01442016)               | DG                 |                                                                                 |
 | [Red Umbrella](https://maplelegends.com/lib/equip?id=01302025)                 | DGQ                | There is a quest in Taipei 101 that randomly rewards one of 5 umbrella weapons. |
+| [Black Surfboard](https://maplelegends.com/lib/equip?id=01442028)              | DG                 |                                                                                 |
 | [Green Surfboard \[level 45\]](https://maplelegends.com/lib/equip?id=01442055) | E                  |                                                                                 |
 | [Tsunami Wave](https://maplelegends.com/lib/equip?id=01442065)                 | E                  |                                                                                 |
 | [Orange Ski](https://maplelegends.com/lib/equip?id=01432016)                   | D                  |                                                                                 |
@@ -82,6 +83,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)              | DG                 |                                                                                 |
 | [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)        | GQ                 | There is a quest in Taipei 101 that randomly rewards one of 5 umbrella weapons. |
 | [Lifeguard Saver](https://maplelegends.com/lib/equip?id=01302095)              | E                  |                                                                                 |
+| [Bamboo Spear](https://maplelegends.com/lib/equip?id=01432009)\*               | G                  |                                                                                 |
 | [Yellow Valentine Rose](https://maplelegends.com/lib/equip?id=01442047)        | E                  |                                                                                 |
 | [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)                   | D                  |                                                                                 |
 | [Yellow Mop](https://maplelegends.com/lib/equip?id=01442021)                   | D                  |                                                                                 |
@@ -94,9 +96,10 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Frying Pan](https://maplelegends.com/lib/equip?id=01322027)                   | D                  |                                                                                 |
 | [Purple Whip](https://maplelegends.com/lib/equip?id=01302917)                  |                    |                                                                                 |
 | [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)               | DB                 |                                                                                 |
-| [Silver Snowboard](https://maplelegends.com/lib/equip?id=01442014)             | D                  |                                                                                 |
+| [Silver Snowboard](https://maplelegends.com/lib/equip?id=01442014)             | DG                 |                                                                                 |
 | [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)            | DG                 |                                                                                 |
-| [Elemental Staff 3](https://maplelegends.com/lib/equip?id=01382047)            | B                  |                                                                                 |
+| [Elemental Staff 3](https://maplelegends.com/lib/equip?id=01382047)            | BG                 |                                                                                 |
+| [Aqua Snowboard](https://maplelegends.com/lib/equip?id=01442013)               | DG                 |                                                                                 |
 
 ## Weapons that I want, but that are difficult to access, because they are highly sought-after and/or too high level and/or do not exist in-game
 
@@ -136,8 +139,8 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Red Surfboard \[level 95\]](https://maplelegends.com/lib/equip?id=01442026)   | DE                 |
 | [Frozen Tuna \[level 20\]](https://maplelegends.com/lib/equip?id=01442018)     | G                  |
 | [Red Surfboard \[level 15\]](https://maplelegends.com/lib/equip?id=01442054)   | E                  |
-| [Elemental Staff 1](https://maplelegends.com/lib/equip?id=01382045)            | B                  |
-| [Elemental Staff 2](https://maplelegends.com/lib/equip?id=01382046)            | B                  |
-| [Elemental Staff 4](https://maplelegends.com/lib/equip?id=01382048)            | B                  |
+| [Elemental Staff 1](https://maplelegends.com/lib/equip?id=01382045)            | BG                 |
+| [Elemental Staff 2](https://maplelegends.com/lib/equip?id=01382046)            | BG                 |
+| [Elemental Staff 4](https://maplelegends.com/lib/equip?id=01382048)            | BG                 |
 | [Surfboard](https://maplelegends.com/lib/equip?id=01442011)                    | D                  |
-| [Sky Snowboard](https://maplelegends.com/lib/equip?id=01442012)                | D                  |
+| [Sky Snowboard](https://maplelegends.com/lib/equip?id=01442012)                | DG                 |
