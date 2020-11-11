@@ -66,7 +66,6 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Frozen Tuna \[level 10\]](https://maplelegends.com/lib/equip?id=01442039)     | BG                 |
 | [Thermometer](https://maplelegends.com/lib/equip?id=01402014)                  | D                  |
 | [Chief Axe](https://maplelegends.com/lib/equip?id=01312017)                    |                    |
-| [Purple Whip](https://maplelegends.com/lib/equip?id=01302917)                  |                    |
 | [Maplemas Lights](https://maplelegends.com/lib/equip?id=01302080)              | E                  |
 | [Broomstick](https://maplelegends.com/lib/equip?id=01302131)                   |                    |
 | [Golden Mace](https://maplelegends.com/lib/equip?id=01322053)                  |                    |
@@ -93,6 +92,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)                  | DE                 |
 | [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)                  | D                  |
 | [Frying Pan](https://maplelegends.com/lib/equip?id=01322027)                   | D                  |
+| [Purple Whip](https://maplelegends.com/lib/equip?id=01302917)                  |                    |
 | [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)               | DB                 |
 | [Silver Snowboard](https://maplelegends.com/lib/equip?id=01442014)             | D                  |
 | [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)            | D                  |
