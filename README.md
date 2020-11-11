@@ -45,7 +45,6 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [White Mop](https://maplelegends.com/lib/equip?id=01442022)                    | G                  |
 | [Colorful Tube](https://maplelegends.com/lib/equip?id=01322026)                | D                  |
 | [Kebob](https://maplelegends.com/lib/equip?id=01332053)                        | G                  |
-| [Goblin Bat](https://maplelegends.com/lib/equip?id=01322033)\*                 |                    |
 | [Frantic Stirge](https://maplelegends.com/lib/equip?id=01302093)               |                    |
 | [Aluminum Bat](https://maplelegends.com/lib/equip?id=01402029)                 | DB                 |
 | [Blue Valentine Rose](https://maplelegends.com/lib/equip?id=01442049)          | E                  |
