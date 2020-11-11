@@ -43,7 +43,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Steel Pipe](https://maplelegends.com/lib/equip?id=01322006)                   |                    |                                                                                 |
 | [Basic Polearm](https://maplelegends.com/lib/equip?id=01442079)                |                    |                                                                                 |
 | [White Mop](https://maplelegends.com/lib/equip?id=01442022)                    | G                  |                                                                                 |
-| [Colorful Tube](https://maplelegends.com/lib/equip?id=01322026)                | D                  |                                                                                 |
+| [Colorful Tube](https://maplelegends.com/lib/equip?id=01322026)                | DG                 |                                                                                 |
 | [Kebob](https://maplelegends.com/lib/equip?id=01332053)                        | G                  |                                                                                 |
 | [Frantic Stirge](https://maplelegends.com/lib/equip?id=01302093)               |                    |                                                                                 |
 | [Aluminum Bat](https://maplelegends.com/lib/equip?id=01402029)                 | DB                 |                                                                                 |
@@ -77,23 +77,23 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Red Umbrella](https://maplelegends.com/lib/equip?id=01302025)                 | DGQ                | There is a quest in Taipei 101 that randomly rewards one of 5 umbrella weapons. |
 | [Black Surfboard](https://maplelegends.com/lib/equip?id=01442028)              | DG                 |                                                                                 |
 | [Green Surfboard \[level 45\]](https://maplelegends.com/lib/equip?id=01442055) | E                  |                                                                                 |
-| [Tsunami Wave](https://maplelegends.com/lib/equip?id=01442065)                 | E                  |                                                                                 |
-| [Orange Ski](https://maplelegends.com/lib/equip?id=01432016)                   | D                  |                                                                                 |
+| [Tsunami Wave](https://maplelegends.com/lib/equip?id=01442065)                 | GE                 |                                                                                 |
+| [Orange Ski](https://maplelegends.com/lib/equip?id=01432016)                   | DG                 |                                                                                 |
 | [Golden Snowboard](https://maplelegends.com/lib/equip?id=01442015)             | D                  |                                                                                 |
 | [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)              | DG                 |                                                                                 |
 | [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)        | GQ                 | There is a quest in Taipei 101 that randomly rewards one of 5 umbrella weapons. |
 | [Lifeguard Saver](https://maplelegends.com/lib/equip?id=01302095)              | E                  |                                                                                 |
 | [Bamboo Spear](https://maplelegends.com/lib/equip?id=01432009)\*               | G                  |                                                                                 |
 | [Yellow Valentine Rose](https://maplelegends.com/lib/equip?id=01442047)        | E                  |                                                                                 |
-| [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)                   | D                  |                                                                                 |
+| [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)                   | DG                 |                                                                                 |
 | [Yellow Mop](https://maplelegends.com/lib/equip?id=01442021)                   | D                  |                                                                                 |
 | [Pig Illustrated](https://maplelegends.com/lib/equip?id=01322031)              | Q                  |                                                                                 |
 | [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)               | DGQ                | There is a quest in Taipei 101 that randomly rewards one of 5 umbrella weapons. |
 | [Duck tube \[level 50\]](https://maplelegends.com/lib/equip?id=01322063)       | DE                 |                                                                                 |
-| [Black Tube](https://maplelegends.com/lib/equip?id=01322021)                   | DE                 |                                                                                 |
-| [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)                  | DE                 |                                                                                 |
-| [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)                  | D                  |                                                                                 |
-| [Frying Pan](https://maplelegends.com/lib/equip?id=01322027)                   | D                  |                                                                                 |
+| [Black Tube](https://maplelegends.com/lib/equip?id=01322021)                   | DGE                |                                                                                 |
+| [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)                  | DGE                |                                                                                 |
+| [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)                  | DG                 |                                                                                 |
+| [Frying Pan](https://maplelegends.com/lib/equip?id=01322027)                   | DG                 |                                                                                 |
 | [Purple Whip](https://maplelegends.com/lib/equip?id=01302917)                  |                    |                                                                                 |
 | [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)               | DB                 |                                                                                 |
 | [Silver Snowboard](https://maplelegends.com/lib/equip?id=01442014)             | DG                 |                                                                                 |
@@ -111,10 +111,10 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Sky Ski](https://maplelegends.com/lib/equip?id=01432018)                 | G                  |
 | [Maple Glory Sword](https://maplelegends.com/lib/equip?id=01302064)       | E                  |
 | [Fan](https://maplelegends.com/lib/equip?id=01332030)                     | G                  |
-| [Guan Yu Pole Arm](https://maplelegends.com/lib/equip?id=01442025)        | D                  |
-| [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)          | DB                 |
+| [Guan Yu Pole Arm](https://maplelegends.com/lib/equip?id=01442025)        | DG                 |
+| [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)          | DBG                |
 | [Fishing Pole](https://maplelegends.com/lib/equip?id=01432039)            | B                  |
-| [Japanese Map](https://maplelegends.com/lib/equip?id=01402013)            | DB                 |
+| [Japanese Map](https://maplelegends.com/lib/equip?id=01402013)            | DBG                |
 | [Maple Soul Singer](https://maplelegends.com/lib/equip?id=01302030)       | E                  |
 | [Pumpkin Spear](https://maplelegends.com/lib/equip?id=01432013)           | D                  |
 | [Maple Sword](https://maplelegends.com/lib/equip?id=01302020)             | E                  |
@@ -132,7 +132,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 
 | weapon                                                                         | known availability |
 | :----------------------------------------------------------------------------- | :----------------- |
-| [Emergency Rescue Tube](https://maplelegends.com/lib/equip?id=01322025)        | DE                 |
+| [Emergency Rescue Tube](https://maplelegends.com/lib/equip?id=01322025)        | DGE                |
 | [Blood Snowboard](https://maplelegends.com/lib/equip?id=01442017)              | DBG                |
 | [Green Surfboard \[level 55\]](https://maplelegends.com/lib/equip?id=01442027) | DE                 |
 | [Sky Blue Surfboard](https://maplelegends.com/lib/equip?id=01442056)           | E                  |
