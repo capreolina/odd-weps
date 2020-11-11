@@ -74,19 +74,19 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Green Ski](https://maplelegends.com/lib/equip?id=01432017)                    | GE                 |
 | [Red Ski](https://maplelegends.com/lib/equip?id=01432015)                      | G                  |
 | [Dark Snowboard](https://maplelegends.com/lib/equip?id=01442016)               | D                  |
-| [Red Umbrella](https://maplelegends.com/lib/equip?id=01302025)                 | GD                 |
+| [Red Umbrella](https://maplelegends.com/lib/equip?id=01302025)                 | DG                 |
 | [Green Surfboard \[level 45\]](https://maplelegends.com/lib/equip?id=01442055) | E                  |
 | [Tsunami Wave](https://maplelegends.com/lib/equip?id=01442065)                 | E                  |
 | [Orange Ski](https://maplelegends.com/lib/equip?id=01432016)                   | D                  |
 | [Golden Snowboard](https://maplelegends.com/lib/equip?id=01442015)             | D                  |
-| [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)              | GD                 |
+| [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)              | DG                 |
 | [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)        | G                  |
 | [Lifeguard Saver](https://maplelegends.com/lib/equip?id=01302095)              | E                  |
 | [Yellow Valentine Rose](https://maplelegends.com/lib/equip?id=01442047)        | E                  |
 | [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)                   | D                  |
 | [Yellow Mop](https://maplelegends.com/lib/equip?id=01442021)                   | D                  |
 | [Pig Illustrated](https://maplelegends.com/lib/equip?id=01322031)              | Q                  |
-| [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)               | GD                 |
+| [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)               | DG                 |
 | [Duck tube \[level 50\]](https://maplelegends.com/lib/equip?id=01322063)       | DE                 |
 | [Black Tube](https://maplelegends.com/lib/equip?id=01322021)                   | DE                 |
 | [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)                  | DE                 |
@@ -95,7 +95,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 | [Purple Whip](https://maplelegends.com/lib/equip?id=01302917)                  |                    |
 | [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)               | DB                 |
 | [Silver Snowboard](https://maplelegends.com/lib/equip?id=01442014)             | D                  |
-| [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)            | GD                 |
+| [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)            | DG                 |
 | [Elemental Staff 3](https://maplelegends.com/lib/equip?id=01382047)            | B                  |
 
 ## Weapons that I want, but that are difficult to access, because they are highly sought-after and/or too high level and/or do not exist in-game
