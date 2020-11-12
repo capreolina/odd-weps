@@ -132,6 +132,7 @@ An asterisk (`*`) indicates that the item is untradeable.
 
 | weapon                                                                         | known availability |
 | :----------------------------------------------------------------------------- | :----------------- |
+| [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=01452018)   | D                  |
 | [Emergency Rescue Tube](https://maplelegends.com/lib/equip?id=01322025)        | DGE                |
 | [Blood Snowboard](https://maplelegends.com/lib/equip?id=01442017)              | DBG                |
 | [Green Surfboard \[level 55\]](https://maplelegends.com/lib/equip?id=01442027) | DE                 |
